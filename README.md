@@ -1,8 +1,8 @@
 # CS510 CW 3
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Keith, Max, Alice**
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-03-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-03-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-03-keith-max-alice.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-03-keith-max-alice)
 
 ## Specification
 
@@ -27,8 +27,9 @@ Complete the following exercises, saving your solutions in the indicated files. 
 ## Assessment
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
+It was intresting to use the test file to determine if our fibonacci script worked.
 
-**CHANGEME**
+**Keith, Max, Alice**
 
 ## Honor Pledge
 
@@ -39,4 +40,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Keith, Max, Alice**
