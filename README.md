@@ -2,7 +2,7 @@
 
 **Author(s):** **Keith, Max, Alice**
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-03-keith-max-alice.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-03-keith-max-alice)
+[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-03-keith-maxalice.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-03-keith-max-alice)
 
 ## Specification
 
